@@ -1,6 +1,6 @@
 {
   "name": "rtl_433",
-  "image": "ghcr.io/mayankchetan/rtl_433-hass-addons-rtl_433-{arch}",
+  "image": "ghcr.io/mayankchetan/rtl_433-hass-addons-mc-rtl_433-{arch}",
   "version": "0.5.2",
   "slug": "rtl433",
   "description": "Receive wireless sensor data via an SDR dongle and rtl_433",
